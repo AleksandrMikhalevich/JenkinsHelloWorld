@@ -1,0 +1,1 @@
+Jenkins experiment: creation a connection between Jenkins on virtual OC (Ubuntu) and this project on GitHub (SSH)
