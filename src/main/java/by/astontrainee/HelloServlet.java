@@ -19,7 +19,7 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         resp.setContentType("text/html");
         PrintWriter printWriter = resp.getWriter();
-        printWriter.write("Hello world again!");
+        printWriter.write("Hello world new!");
         printWriter.close();
     }
 }
